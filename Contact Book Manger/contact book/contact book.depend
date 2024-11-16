@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1731149645 source:c:\users\mohamed\desktop\mine contact book\contact book\src\person.cpp
+	"person.h"
+
+1731149645 c:\users\mohamed\desktop\mine contact book\contact book\include\person.h
+
+1731251366 source:c:\users\mohamed\desktop\mine contact book\contact book\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+
